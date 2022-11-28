@@ -112,6 +112,9 @@ h2{
 }
 
 @media (max-width: 1000px) {
+    #title{
+        text-align:center;
+    }
 .homepage-img{
     position: static;
     transform: rotate(0);
